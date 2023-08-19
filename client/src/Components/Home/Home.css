@@ -1,0 +1,8 @@
+.Home{
+    background-image: url("./Home.jpg");
+    box-sizing: border-box;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+    min-height: 100vh;
+}

@@ -1,0 +1,14 @@
+.itemname{
+    width:400px;
+    height:450px;
+    margin: 5px;
+    margin-left: 450px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color:white;
+    font-size: 40px;
+    border: 5px solid black;
+    background-color: rgb(210, 241, 180);
+color:black;
+}

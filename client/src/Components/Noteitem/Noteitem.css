@@ -1,0 +1,34 @@
+.box{
+    display: block;
+    padding: 5px;
+    margin-left:10px;
+    margin-bottom: 10px;
+    height: 300px;
+    width: 300px;
+    background-color: rgb(210, 241, 180);
+    overflow-x: hidden;
+    border-radius: 10px;
+}
+.title{
+    font-family: Bangers ;
+    font-size: 40px;
+}
+.descrp{
+    font-family: Oleo Script;
+    font-size: 30px;
+}
+.item{
+    height: 30px;
+    background-color: white;
+    color: green;
+    font-family: cursive;
+    border-radius: 10px;
+}
+.item:hover{
+    background-color: green;
+    color:white;
+}
+.change{
+    display: flex;
+    justify-content: space-between;
+}
