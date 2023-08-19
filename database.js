@@ -1,5 +1,5 @@
 const mongoose = require('mongoose')
 const connect1=async()=>{
-    await mongoose.connect( "mongodb://127.0.0.1:27017/rahulnotes")
+    await mongoose.connect("mongodb+srv://rahulreddy6118:rahul2004@cluster0.hfp1gcu.mongodb.net/?retryWrites=true&w=majority")
 }
 module.exports = connect1;
